@@ -1,0 +1,17 @@
+author_name:
+  type: str
+  default: "Mathias Jackermeier"
+
+author_email:
+  type: str
+  default: "mathias.jackermeier@outlook.com"
+
+project_name:
+  type: str
+
+python_version:
+  type: str
+  default: "3.11"
+
+exclude:
+  - README.md
